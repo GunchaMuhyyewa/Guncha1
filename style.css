@@ -1,0 +1,51 @@
+.bg-image {
+    background-image: url('../img/banner-bg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.bg-shadow {
+    background-color: rgba(0, 0, 0, .3);
+}
+.header-margin-bottom {
+    margin-bottom: 5rem;
+}
+
+.header-margin-top {
+    margin-top: -5rem;
+}
+
+.pb-10{
+    padding-bottom:160px;
+}
+.pt-10{
+    padding-top:130px;
+}
+
+.rounded-10{
+    border-radius: 65px;
+}
+
+.bg-blue{
+    background-color: #0C8AD6;
+}
+
+.bg-turquiese{
+    background-color: #0BABBB;
+}
+
+.bg-turquiese{
+    background-color: #0BABBB;
+}
+
+.btn-turquise{
+    color: white;
+    background-color: #0BABBB;
+}
+.btn-turquise:hover{
+    border-color: #0BABBB;
+    color: #0BABBB;
+    background-color: white;
+}
